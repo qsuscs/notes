@@ -1,0 +1,38 @@
+* Formeln
+  - Nyquist
+  - Shannon
+  - Propagation
+
+    \(P_r = P_t \cdot \left( \frac{λ}{4πd} \right)^2 \cdot G_r \cdot G_t\)
+    - \(P_r\) = received power
+    - \(P_t\) = transmitted power
+    - \(G_r\) = receiver antenna gain
+    - \(G_t\) = transmitter antenna gain
+    - \(d\) = distance
+    Empfangene Signalstärke proportional zur Senderstärke mit \(1/d^α\), mit \(α
+    = 2\) im Vakuum, \(2.7\) bis \(5\) in der Stadt, \(4\) bis \(6\) drinnen
+  - Orthogonale Codes
+
+* wichtige Konzepte
+  - CDM
+
+    Chipsequenzen, orthogonale Codes (→ Formeln)
+
+  - Block Codes (Fehlerkorrektur)
+
+    (n,k)-Code: Schütze k Datenbits mit n-k FEC-Bits, also n Bits insgesamt.
+
+  - Convolutional Code
+
+    - Fehlerkorrektur über die Übertragung verteilt
+
+    - (n,k,K)-code: n Bits Ausgabe für k Bits Eingabe, über die letzten K-1
+      Eingabeblöcke, also sind n Ausgabebits eine Funktion der letzten Kk
+      Eingabebits
+
+    - State Diagram malen können (Shift Register ist einfach genug), Trellis
+      Diagram malen und verstehen
+
+    - Viterbi-Algorithmus
+
+  - Hamming-Distanz/Gewicht
