@@ -1,0 +1,56 @@
+#+TITLE: Physikalische Chemie I
+#+LATEX_HEADER: \usepackage{physics}
+#+LATEX_HEADER: \usepackage{nicefrac}
+#+LATEX_HEADER: \usepackage{siunitx}
+#+LATEX_HEADER: \usepackage{fontspec}
+
+* Aufbau der Materie, Spektroskopie
+  (80% der VL)
+
+** Aufbau der Materie
+   Zeichnung zu Doppelspaltexperiment, mit klassischer Materie (Farbsprühdose)
+   im Vergleich mit Laserlicht.  Dritte Version: elektrisch erregte Drahtwendel,
+   Elektronen lösen sich.  Davor eine Blende mit einem Spalt, die zum Emitter
+   positives Potential hat.  Diese so beschleunigten Elektronen zeigen
+   Beugungseigenschaften, obwohl sie doch eigentlich Teilchen sind.  Das ist
+   kein Spezialfall der geladenen und/oder sehr leichten Elektronen, auch mit
+   schwereren oder ungeladenen Teilchen treten solche Effekte auf.  Selbst mit
+   ganzen Molekülen.
+
+** Schwingungen und Wellen
+   \( y = y_0 \cos(ωt - kx + φ) \).  Sei \(t\) die Zeit, \(x\) der Ort und \(φ\)
+   die Phase (hier \(φ=0\)).
+
+   Funktionsplot mit \(x=0 \rightarrow y = y_0 \cos(ωt)\).  \(ωT = 2π
+   \leftrightarrow ω = \frac{2π}{T} = 2πν, \frac{1}{T} = ν\).
+
+   Funktionsplot mit \(t=0 \rightarrow y = y_0 \cos(-kx) = y_0 \cos(kx)\).  \(kλ
+   = 2π \leftrightarrow λ = \frac{2π}{k}\).
+
+   Geschwindigkeit \(v\).  \(ωt - kx + φ \overset{!}{=} \mathrm{const}
+   \leftrightarrow kx = ωt + φ - \mathrm{const} \leftrightarrow x =
+   \frac{ω}{k}t + \frac{φ}{k} - \frac{\mathrm{const}}{k} \rightarrow v =
+   \frac{dx}{dt} = \frac{ω}{k} = \frac{2πν}{\frac{2π}{λ}} = \frac{2πνλ}{2π} =
+   νλ\).  Elektromagnetische Wellen: \(v = c\) (Lichtgeschwindigkeit).
+
+   \(y = y_0 \cos(ωt - kx + φ)\) \(\pdv{y}{x} = y_0 (-\sin(ωt - kx + φ)) \cdot
+   (-k) = y_0 k \sin(ωt - kx + φ)\) \(\pdv[2]{y}{x} = y_0 k \cos(ωt - kx +
+   φ)(-k) = -k^2 y_0 \cos(ωt - kx + φ)\) \(\pdv[2]{y}{x} = -k^2 y\)
+   (Wellengleichung).
+
+** Kinetische Energie
+   \(E = \nicefrac{1}{2}mv^2 = \nicefrac12 m\frac{p^2}{m^2} = \frac{p^2}{2m}\)
+   (Impuls \(p = mv \rightarrow v = \nicefrac{p}{m}\)).
+
+** Operatoren
+   \(\hat{p} = \frac{\bar{h}}{i} \dv{}{x}\) \(\bar{h} = \frac{h}{2π}; h = 6.626
+   \cdot 10^{-34} \si{\joule\second}\)
+
+   Hamilton-Operator: \(\hat{H} = \frac{\hat{p}^2}{2m} =
+   \frac{\hat{p}\hat{p}}{2m} = \frac{1}{2m} \frac{\bar{h}}{i} \dv{}{x}
+   \frac{\bar{h}}{i} \dv{}{x}\) \(\hat{H} = -\frac{\bar{h}^2}{2m} \dv[2]{}{x}\)
+
+   \( \hat{H}ψ = Eψ \leftrightarrow -\frac{\bar{h}^2}{2m} \dv[2]{ψ}{x} = Eψ \)
+   (Zeitunabhängige Schrödinger-Gleichung)
+
+* Chemische Kinetik
