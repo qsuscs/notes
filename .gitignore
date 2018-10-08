@@ -4,3 +4,7 @@
 .org-id-locations
 *_archive
 *.html
+*.pdf
+*.tex
+auto/
+ltximg/
