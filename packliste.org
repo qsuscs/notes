@@ -1,0 +1,125 @@
+#+TITLE: Packliste
+
+* Kleidung
+  - Schuhe
+    - feste/regensichere
+    - leichte
+    - Sandalen
+    - Flipflops
+  - Socken
+    - lange
+    - kurze
+  - Hosen
+    - lange
+    - kurze
+    - ordentliche
+  - Unterwäsche
+    - Boxer
+    - andere
+  - T-Shirts
+  - Hemden
+  - Pullis
+  - Mützen
+
+* Wäschebeutel/Bad und andere Feuchtgebiete
+  - Zahnbürste
+    - konventionelle
+    - elektrische
+      - Ladegerät
+  - Zahnpasta
+  - Zahnputzbecher
+  - Zahnseide
+  - Duschgel
+  - Shampoo
+  - Rasierseife
+  - Rasierer
+    - Ersatzklingen
+  - Wattestäbchen
+  - Wattepads
+  - Nagellackentferner
+  - Ohropax
+  - Badehose
+  - Handtuch
+    - klein
+    - groß
+    - unbachen groß
+  - Waschlappen
+  - Brillenputztuch
+  - Kamm
+  - Verhüterli
+
+* Schlafen
+  - Kissen
+  - Decke
+  - Bettzeug
+  - Flauschetier
+  - Brillenetui
+
+* Elektronisches
+  - Handy
+    - SIM-Karten
+  - DECT
+  - Funkgerät
+  - Notebooks
+    - Ladegeräte
+    - VGA-Adapter
+    - Ethernet-Adapter
+  - Kindle
+  - Spielkonsolen
+    - DS
+    - PSP
+  - Kopfhörer
+    - Klinkenkabel
+  - Mic
+  - Powerbank
+  - USB-Kabel
+    - mini-B
+    - micro-B
+    - C
+  - USB-Netzteile
+    - DashCharge
+  - Steckdosenleiste
+  - Verlängerungskabel
+  - Adapter
+
+* Gesundheit/Medizin
+  - Medikamente
+    - Paracetamol
+    - Rezeptkopie/Quittung
+  - Blutdruckmessgerät
+  - Pflaster
+
+* Dokumente und Geld
+  - Personalausweis
+  - Reisepass
+  - Führerschein
+  - Amateurfunklizenz
+  - Studierendenausweis
+    - Immatrikulationsbescheinigung
+  - Geld
+    - Bargeld
+      - richtige Währung
+    - Kreditkarten
+    - Girokarten
+  - Krankenversicherungskarte
+  - Organspendeausweis
+  - Tickets
+    - Semesterticket
+    - BahnCard
+
+* Etcetera
+  - Schreibutensilien
+    - Kugelschreiber
+    - Bleistifte
+    - Füller
+      - Tintenpatronen
+    - Geodreieck
+    - Tippex
+    - Papier
+  - Schlüssel
+  - Sackmesser
+  - Duct tape
+  - Armeebesteck
+  - Trinkflasche
+    - mit Inhalt
+  - Vesper
