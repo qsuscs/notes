@@ -123,3 +123,29 @@
   - Trinkflasche
     - mit Inhalt
   - Vesper
+
+* Camp
+  - Zelt
+  - Schlafsack
+    - Kissen
+  - Rettungsfolie
+  - Decken (Deppich)
+  - Klappstuhl
+  - Geschirr
+  - Kochutensilien
+  - Vorbereitetes Essen
+  - Taschenlampe
+    - Kopflampe
+  - Eimer, Löschdecke
+  - Kackpappe
+  - Feuchte Tücher
+  - Sonnencreme
+  - Seife
+  - Badelatschen
+  - Regenkleidung
+  - Außen-Stromkabel/Kabeltrommel
+    - FI
+    - Sicherung
+  - Langes Netzwerkkabel
+  - Lüfter
+  - GSM
