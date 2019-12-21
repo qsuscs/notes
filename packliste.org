@@ -52,6 +52,8 @@
   - Kissen
   - Decke
   - Bettzeug
+  - Schlafsack
+  - Isomatte
   - Flauschetier
   - Brillenetui
 
