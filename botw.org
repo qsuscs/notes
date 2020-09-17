@@ -1,0 +1,26 @@
+#+TITLE: The Legend of Zelda: Breath of the Wild
+
+* Armour upgrades
+  - Champion’s Tunic
+    - 2 Shard of a Farosh’s Horn
+  - Snowquill *
+    - 3 Warm Safflina
+  - Desert Voe *
+    - 3 White Chuchu Jelly
+  - Flamebreaker *
+    - 1 Fireproof Lizard
+  - Zora *
+    - 5 Hearty Bass
+    - 5 Lizalfos Tail
+  - Stealth Chest Guard
+    - 8 Silent Shroom
+    - 5 Sneaky River Snail
+  - Climbing * (L2)
+    - 5 Hightail Lizard
+  - Climbing * (L3)
+    - 5 Ice Keese Wing
+    - 10 Hot-Footed Frog
+  - Radiant *
+    - 5 Luminous Stone
+  - Topaz Earrings
+    - 4 Topaz
